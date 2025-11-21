@@ -1,0 +1,2 @@
+Family,f45,jahsh,jenin,7
+Family,f16,dawood,rafah,5
